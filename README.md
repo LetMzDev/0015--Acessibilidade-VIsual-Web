@@ -21,3 +21,6 @@ ___
 	- **Identifica problemas comuns**: Detecta uma variedade de problemas de acessibilidade, como falta de rótulos em elementos interativos, contrastes de cores insuficientes, uso inadequado de ARIA e muito mais.
 	- **Oferece soluções práticas**: Para cada problema identificado, o Axe DevTools sugere soluções específicas e detalhadas, facilitando o processo de correção.
 	- **Integração com diversas ferramentas**: A extensão pode ser integrada a outras ferramentas de desenvolvimento, como o Visual Studio Code, para um fluxo de trabalho mais eficiente.
+___
+- [Colour Contrast Analyzer (CCA)](https://developer.paciellogroup.com/color-contrast-checker/)
+	- O Colour Contrast Analyzer (CCA), ou Analisador de Contraste de Cores, é uma ferramenta essencial para designers, desenvolvedores e qualquer profissional que trabalhe com a criação de interfaces digitais. Sua principal função é avaliar o contraste entre as cores utilizadas em um design, garantindo que o texto seja legível e acessível para todos os usuários, especialmente aqueles com deficiência visual.
