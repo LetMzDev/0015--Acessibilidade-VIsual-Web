@@ -1,4 +1,4 @@
-# Ajustando Acessibilidade Visual em um Projeto
+# Ajustando Acessibilidade Visual em um Projeto `( C.25 e C.26 )`
 
  ## Extensões
 - [WCAG Color Contrast Checker](https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=pt-PT&utm_source=ext_sidebar)
@@ -24,3 +24,8 @@ ___
 ___
 - [Colour Contrast Analyzer (CCA)](https://developer.paciellogroup.com/color-contrast-checker/)
 	- O Colour Contrast Analyzer (CCA), ou Analisador de Contraste de Cores, é uma ferramenta essencial para designers, desenvolvedores e qualquer profissional que trabalhe com a criação de interfaces digitais. Sua principal função é avaliar o contraste entre as cores utilizadas em um design, garantindo que o texto seja legível e acessível para todos os usuários, especialmente aqueles com deficiência visual.
+
+___
+## Leitor de tela NVDA para Windows
+- [Lista de leitores de tela da Wikipedia](https://en.wikipedia.org/wiki/List_of_screen_readers)
+- [NVDA](https://www.nvaccess.org/download/)
