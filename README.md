@@ -29,3 +29,7 @@ ___
 ## Leitor de tela NVDA para Windows
 - [Lista de leitores de tela da Wikipedia](https://en.wikipedia.org/wiki/List_of_screen_readers)
 - [NVDA](https://www.nvaccess.org/download/)
+
+___
+## Diretrizes de Acessibilidade na Web
+- [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
