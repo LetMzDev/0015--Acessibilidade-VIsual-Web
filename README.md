@@ -33,3 +33,7 @@ ___
 ___
 ## Diretrizes de Acessibilidade na Web
 - [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
+
+## Outros
+- [Técnicas para esconder elementos de uma página](https://webaim.org/techniques/css/invisiblecontent/)
+- [Tags ARIA](https://developer.mozilla.org/pt-BR/docs/Web/Accessibility/ARIA)
